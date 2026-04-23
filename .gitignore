@@ -1,0 +1,22 @@
+# Dependencies
+**/node_modules/
+
+# Builds
+**/dist/
+**/.next/
+**/out/
+**/*.tsbuildinfo
+
+# Environment
+**/.env
+**/.env.local
+**/.env.*.local
+
+# OS / editor
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# Vercel
+**/.vercel
